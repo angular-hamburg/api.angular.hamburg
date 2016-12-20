@@ -3,6 +3,8 @@
 
 **This is a prototype of a simple API for angular.hamburg.**
 
+A demo version of this API is hosted on [`now`](https://zeit.co/now): [`https://apiangularhamburg-dtrlgcfzjc.now.sh`](https://apiangularhamburg-dtrlgcfzjc.now.sh)
+
 ## API
 
 So far, the API only has 1 method:
@@ -18,7 +20,3 @@ So far, the API only has 1 method:
 ## Development
 
 - **`npm start`**: starts the API server on `localhost:80`
-
-## Todos
-
-- Host the API on [`now`](https://zeit.co/now)
